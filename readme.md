@@ -1,4 +1,4 @@
-# :pencil: :pensive: Software Development Repository
+# :pencil: :pensive: Software Development Repository :pensive:
 
 This is a repository to learn Git basics
 
@@ -6,8 +6,9 @@ _Italic_
 
 **Bolded**
 
-##Second Heading
+## :pensive: Second Heading :pensive:
 
+:pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: :pensive: 
 
 List:
 - Member 1
@@ -16,10 +17,10 @@ List:
 `Code snippet`
 
 ```python
-primt("This should be unformatted")
+print("This should be unformatted")
 ```
 
 ```java
-System.out.print.ln('This should be in Java syntax')
+System.out.print.ln('This should be in Java syntax');
 ```
 
